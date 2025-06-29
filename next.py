@@ -20,4 +20,4 @@ while True:
         print("Thanks ")
         break
 else:
-    print("Exit")
+    print("Invalid choice, Choose from 1 to 4")
