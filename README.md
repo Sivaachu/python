@@ -1,0 +1,1 @@
+This repository contains a collection of beginner to intermediate level Python programs and practice files. Each script covers a core concept of Python, making this a great resource for learners and those brushing up on fundamentals.
