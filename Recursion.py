@@ -1,8 +1,8 @@
-#Recursion
 
-def sum(n):
-    if(n==1 or n ==0):
+def factorial(n):
+    if n == 0:
         return 1
     else:
-        return n + sum(n-1)
-print(sum(5))
+        return n * factorial(n-1)
+print("Factorial = ",factorial(4))
+
